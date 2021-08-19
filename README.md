@@ -12,13 +12,14 @@
 
 <a href="https://github.com/D-Diyare">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=D-Diyare&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <br />
+  <br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Diyare&show_icons=true&theme=tokyonight" />
 </a>
   
 <br />
 <br />
 
-[![Diyare's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Diyare&show_icons=true&theme=tokyonight&)](https://github.com/D-Diyare)
-  
 <a href="https://github.com/D-Diyare">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Diyare&show_icons=true&theme=tokyonight&layout=compact" />
 </a>
