@@ -17,15 +17,13 @@
 <br />
 <br />
 
+[![Diyare's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Diyare&show_icons=true&theme=tokyonight&)](https://github.com/D-Diyare)
+  
 <a href="https://github.com/D-Diyare">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Diyare&show_icons=true&theme=tokyonight&layout=compact" />
 </a>
 <br /><br />
 
-[![Diyare's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Diyare&show_icons=true&theme=tokyonight&)](https://github.com/D-Diyare)
-  
-<br />
-<br />
 
 <h2>Technologies</h2>
 
