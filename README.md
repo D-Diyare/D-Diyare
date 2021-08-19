@@ -3,6 +3,12 @@
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me ...
 
+<!-- [![](https://vistr.dev/badge?repo=Diyare.Diyare&corners=square)](https://github.com/D-Diyare/vistr.dev) -->
+[![](https://img.shields.io/badge/-@Diyare-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/DiyareAbdulla)
+[![](https://img.shields.io/badge/-@Diyare-%23181717?style=flat-square&logo=github)](https://github.com/D-Diyare)
+[![](https://img.shields.io/badge/-Diyare%Abdulla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diyare-abdulla-1671ab213/)](https://www.linkedin.com/in/diyare-abdulla/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=codekurd.com&url=https%3A%2F%2Fcodekurd.com)](https://codekurd.com)
+
 <!---
 D-Diyare/D-Diyare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -19,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br />
 
-
+<h3>Technologies</h3>
 <p align="center">  
   
 <img align="left" alt="Visual Studio Code" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
