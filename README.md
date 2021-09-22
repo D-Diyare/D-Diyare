@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Diyare
+- 👋 Hi, I’m Diyare <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> 
 - 👀 I’m interested in .NET Techonology, Music, Sport.
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me ...
