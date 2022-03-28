@@ -11,7 +11,7 @@
 
 
 <a href="https://github.com/D-Diyare">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=D-Diyare&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=D-Diyare&show_icons=true&count_private=true&include_all_commits=true" />
   <br />
   <br />
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Diyare&show_icons=true&theme=tokyonight" /> -->
@@ -21,7 +21,7 @@
 <br />
 
 <a href="https://github.com/D-Diyare">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Diyare&show_icons=true&theme=tokyonight&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Diyare&show_icons=true&layout=compact" />
 </a>
 <br /><br />
 
