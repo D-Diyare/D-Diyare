@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diyare <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/> 
-- 👀 I’m interested in .NET Techonology, Music, Sport.
-- 🌱 I’m currently learning web development.
+- 👀 I’m interested in Programming, Music, Sport, etc...
+- 🌱 I’m currently working web development.
 - 📫 How to reach me ...
 
 <!-- [![](https://vistr.dev/badge?repo=Diyare.Diyare&corners=square)](https://github.com/D-Diyare/vistr.dev) -->
