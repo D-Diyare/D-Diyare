@@ -1,7 +1,49 @@
-- 👋 Hi, I’m Diyare <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
-- 👀 I’m interested in Programming, Music, Sport, etc...
-- 🌱 I’m currently working on web development.
-- 📫 How to reach me ...
+# Hi there, I'm D-Diyari! 👋
+
+Welcome to my GitHub profile!
+
+## About Me
+
+- 💻 Software Developer with a passion for coding and problem-solving.
+- 🌱 Currently working on developing desktop apps using WPF as well as web apps using ASP.NET Core Web API, MVC, Blazor.
+- 🔬 Interested in Desktop Development, Web Development, etc...
+- 🎓 Graduated from Sulaimaniyah Polytechnic University with a degree in Financial Account.
+- 🌍 Based in Iraqi - Kurdistan.
+
+<!--## Projects
+
+Here are some of the projects I've been working on:
+
+1. **[Project Name]**
+   - Description: [Brief description of the project]
+   - Technologies: [List of technologies used]
+   - [Link to project repository]
+
+2. **[Project Name]**
+   - Description: [Brief description of the project]
+   - Technologies: [List of technologies used]
+   - [Link to project repository]
+
+-->
+
+## Skills
+
+- **Languages:** C#, VB.NET
+- **Frameworks:** WPF, ASP.NET Core, MvvmCross, MVC, Blazor, 
+- **Tools:** VS, VS Code, Rider, SublimeText, etc...
+
+## How to Reach Me
+
+<!--- 📫 Email: [Your Email] -->
+- 🌐 Facebook: [Diyari](https://www.facebook.com/diyare.abdullah020/)
+- 💼 LinkedIn: [Diyari](https://www.linkedin.com/in/diyare-abdulla-1671ab213/)
+
+## Fun Facts
+
+- 🎨 I enjoy BodyBuilding, Programming, Music.
+- 📚 I'm always looking to learn new things and take on challenges.
+- 🌐 I love contributing to open-source projects and collaborating with other developers.
+
 
 <!-- [![](https://vistr.dev/badge?repo=Diyare.Diyare&corners=square)](https://github.com/D-Diyare/vistr.dev) -->
 
@@ -23,28 +65,8 @@
 <a href="https://github.com/D-Diyare">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Diyare&show_icons=true&layout=compact" />
 </a>
-<br /><br />
 
-<h2>Technologies</h2>
+Feel free to explore my repositories and get in touch if you'd like to collaborate on a project or just chat about tech!
 
-<p align="center">  
-  
-<img align="left" alt="Visual Studio Code" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    
-<!-- <img align="left" alt="Xamarin" width="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xamarin/xamarin.png" /> -->
-<img align="left" alt="MvvmCross" width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/mvvmcross/mvvmcross.png" />
-<img align="left" alt="C#" width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" />
-<img align="left" alt="ASP.NET" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
-<img align="left" alt=".NET" width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png" />
-<img align="left" alt="HTML5" width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" />
-<img align="left" alt="CSS3" width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />
-<img align="left" alt="Sass" width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" />
-<img align="left" alt="SQL" width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" />
-<img align="left" alt="SQLITE" width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/sqlite/sqlite.png" />
-<img align="left" alt="MySQL" width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
-<img align="left" alt="GitHub" width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" />
-<img align="left" alt="JSON" width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" />
-<img align="left" alt="Terminal" width="48" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
-  
- </p>
+---
+
